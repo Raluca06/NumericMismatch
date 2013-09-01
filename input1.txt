@@ -1,0 +1,6 @@
+(ROOT
+  (S
+    (NP (NNP Alexandros) (NNP Yiotopoulos))
+    (VP (VBZ is)
+      (NP (CD 58)))
+    (. .)))

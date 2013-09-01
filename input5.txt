@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJS latest) (NNS attacks)))
+    (, ,)
+    (S
+      (NP (CD two) (NNS people))
+      (VP (VBD died)))
+    (CC and)
+    (S
+      (NP (CD five))
+      (VP (VBD were)
+        (VP
+          (ADVP (RB severely))
+          (VBN injured))))
+    (. .)))

@@ -1,0 +1,6 @@
+(ROOT
+  (S
+    (NP (CD Five) (NNS people))
+    (VP (VBD were)
+      (VP (VBN injured)))
+    (. .)))

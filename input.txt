@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJS latest) (NNS attacks)))
+    (, ,)
+    (NP (CD five) (NNS people))
+    (VP (VBD were)
+      (VP (VBN injured)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJS latest) (NNS attacks)))
+    (, ,)
+    (S
+      (NP (CD five) (NNS people))
+      (VP (VBD were)
+        (VP (VBN injured))))
+    (CC and)
+    (S
+      (NP (CD two))
+      (VP (VBD died)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD Three) (NNS people))
+    (VP (VBD were)
+      (VP (VBN injured)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJS latest) (NNS attacks)))
+    (, ,)
+    (S
+      (NP (CD two) (NNS people))
+      (VP (VBD died)))
+    (CC and)
+    (S
+      (NP (CD five))
+      (VP (VBD were)
+        (VP
+          (ADVP (RB severely))
+          (VBN injured))))
+    (. .)))
